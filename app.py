@@ -1,2 +1,2 @@
-contador = 10
+contador = 15
 print('Contador:', contador)
