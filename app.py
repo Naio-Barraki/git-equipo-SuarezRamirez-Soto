@@ -1,2 +1,2 @@
-contador = 0
-print('Contador:', contador)
+contador = 20
+print('El valor final es:', contador)
