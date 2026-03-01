@@ -1,2 +1,2 @@
-contador = 15
+contador = 20
 print('El valor actual del contador es:', contador)
